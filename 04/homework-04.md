@@ -1,7 +1,7 @@
 Homework 04 - Prolog Interpreter
 ===============================================================================
 
-Hard deadline: January 11th 2015, by 23:59
+Hard deadline: January 10th 2016, by 23:59
 
 To be able to complete this homework you will have to familiarize yourself a bit with basics of the programming language [`Prolog`](http://www.swi-prolog.org/). I have also written a [quick guide](./prolog-quick-guide.md) to get programs running, and I outline the basic semantics that have to be supported by the interpreter you have to implement. So make sure you read the guide.  
 
